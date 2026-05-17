@@ -1,4 +1,4 @@
-# JStockLLM
+# JStockLLM (context_time_rotation_ab.py使用)
 ## Context Dynamics A/B Test
 国内株ニュースに対して
 
